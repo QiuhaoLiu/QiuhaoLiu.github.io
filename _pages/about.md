@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm a last year master student from Electrical and Electronic Engineering, [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. My research interest includes Machine Learning, Noisy Label and computational photography.
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
