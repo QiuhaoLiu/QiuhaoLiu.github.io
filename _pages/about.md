@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi, I am Qiuhao Liu ( 刘秋浩 )"
 excerpt: ""
 author_profile: true
 redirect_from: 
