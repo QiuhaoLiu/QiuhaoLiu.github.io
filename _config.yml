@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiuhao Liu"
-description              : "Nanyang Technological University"
+description              : ""
 repository               : "QiuhaoLiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxuan Zheng"
   avatar           : "郑雨萱个人主页照片.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "我爱小狗"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
