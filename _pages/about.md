@@ -54,10 +54,10 @@ My research interests include **Deep Learning**, **Reinforcement Learning**, **L
 **Game AI** | *Feb 2026 - Now * | Shenzhen
 
 ### Alibaba Quark - AI Algorithm Engineer | Internship
-**Large Language Model Generative Recommendation & Ranking System** | *Nov 2025 - Feb 2026* | Beijing
+**LLM4Rec & Ranking System** | *Nov 2025 - Feb 2026* | Beijing
 
 ### VIVO AI LAB - AI Algorithm Engineer | Internship
-**Large Language Model & Reinforcement Learning** | *Aug 2025 - Nov 2025* | Shenzhen
+**LLM & RL** | *Aug 2025 - Nov 2025* | Shenzhen
 
 
 ---
