@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiuhao Liu"
-description              : ""
+title                    : "Qiuhao Liu (刘秋浩)"
+description              : "M.Sc. Graduate from Nanyang Technological University | AI Algorithm Engineer "
 repository               : "QiuhaoLiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxuan Zheng"
-  avatar           : "郑雨萱个人主页照片.jpg"
-  bio              : "我爱小狗"
+  name             : "Qiuhao Liu (刘秋浩)"
+  avatar           : "images/profile.jpg"  # 请上传你的个人照片到这个路径
+  bio              : "AI Algorithm Engineer | NTU Outstanding Graduate | Deep Learning & Reinforcement Learning Researcher"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Alibaba Quark"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"  # 请替换为你的Google Scholar ID
+  email            : "17380666715@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "QiuhaoLiu"  # 请替换为你的GitHub用户名
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : # 如果有LinkedIn账号,请填写用户名
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
